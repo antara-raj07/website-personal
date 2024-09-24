@@ -2,12 +2,14 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 header {
     background-color: #7c1c1c;
     color: rgb(31, 31, 126);
     padding: 1rem;
+    text-align: center;
 }
 
 nav ul {
